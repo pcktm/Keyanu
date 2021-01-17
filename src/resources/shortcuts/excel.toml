@@ -1,0 +1,21 @@
+name = "Microsoft Office Excel"
+process = "EXCEL.EXE"
+
+["Nawigacja i Zaznaczanie"]
+
+"CTRL + SPACE" = "Zaznacz kolumnę"
+"SHIFT + SPACE" = "Zaznacz wiersz"
+"CTRL + +" = "Wstaw wiersz/kolumnę"
+"CTRL + -" = "Usuń wiersz/kolumnę"
+"CTRL + H" = "Otwórz okno znajdź i zamień"
+"SHIFT + TAB" = "Zmień arkusz"
+
+["Praca z Danymi"]
+
+"F2" = "Edytuj dane w komórce"
+"F4" = "Powtórz ostatnią czynność"
+"CTRL + T" = "Stwórz tabelę"
+"ALT + ENTER" = "Dodaj nową linię w komórce"
+"F11" = "Wstaw wykres do zaznaczonego obszaru danych"
+"CTRL + 1" = "Otwórz formatowania komórki"
+"CTRL + SHIFT + 7" = "Wstaw zewnętrzne obramowanie do komórki"

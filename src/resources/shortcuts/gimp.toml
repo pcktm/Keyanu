@@ -1,0 +1,37 @@
+name = "GIMP"
+process = "gimp-2.10.exe"
+
+
+["Narzędzia"]
+
+"A" = "Spray"
+"I" = "Nożyczki"
+"M" = "Przenieś"
+"O" = "Pipeta"
+"T" = "Narzędzie tekstowe"
+"N" = "Ołówek"
+
+[Edycja]
+
+"CTRL + SHIFT + C" = "Kopiuj widoczne elementy"
+"CTRL + ," = "Wypełnij zaznaczenie kolorem pierwszego planu"
+"CTRL + ." = "Wypełnij zaznaczenie kolorem tła"
+
+
+[Widok]
+
+"1" = "Powiększ obraz do 100%"
+"2" = "Powiększ obraz do 200%"
+"3" = "Powiększ obraz do 400%"
+"4" = "Powiększ obraz do 800%"
+"5" = "Powiększ obraz do 1600%"
+
+[Obraz]
+
+"ALT + ENTER" = "Otwórz okno właściwości obrazu"
+"CTRL + M" = "Otwórz okno łączenia warstw"
+
+[Kolory]
+
+"D" = "Ustaw kolor pierwszego planu na czarny i kolor tła na biały"
+"X" = "Zamień kolory pierwszego planu i tła"

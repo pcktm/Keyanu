@@ -1,0 +1,28 @@
+name = "Adobe Premiere Pro"
+process = "Adobe Premiere Pro.exe"
+
+["Narzędzia"]
+"S" = "Przyciąganie"
+"V" = "Narzędzie zaznaczania klipów"
+"C" = "Narzędzie żyletki"
+"H" = "Łapka"
+"P" = "Narzędzie rysowania krzywej"
+"B" = "Narzędzie ripple edit"
+"M" = "Narzędzie zaznaczenia ścieżki"
+"U" = "Narzędzie przesuwania"
+"Z" = "Narzędzie przybliżenia"
+
+["Nawigacja i odtwarzanie"]
+"~" = "Wybrany panel na pełny ekran"
+"CTRL + ~" = "Tryb kinowy"
+
+["Oś czasu"]
+"=" = "Przybliżenie"
+"-" = "Oddalenie"
+"HOME" = "Idź na początek"
+"END" = "Idź na koniec"
+
+["Monitor źródła"]
+"I" = "Zaznacz punkt wejścia"
+"O" = "Zaznacz punkt wyjścia"
+"CTRL + SHIFT + X" = "Wyczyść punkty"

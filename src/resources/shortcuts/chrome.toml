@@ -1,0 +1,23 @@
+name = "Google Chrome"
+process = "chrome.exe"
+
+["Podstawowe"]
+"CTRL + R" = "Odśwież stronę"
+"CTRL + F" = "Znajdź na stronie"
+"CTRL + K" = "Wyszukaj w Google'u"
+"CTRL + N" = "Otwórz nową kartę"
+"CTRL + W" = "Zamknij aktualną kartę"
+
+["Zarządzanie kartami"]
+"CTRL + SHIFT + T" = "Przywróć ostatnią zamkniętą kartę"
+"CTRL + SHIFT + N" = "Otwórz nową kartę w trybie incognito"
+"CTRL + SHIFT + W" = "Natychmiast zamknij wszystkie karty"
+"CTRL + TAB" = "Przejdź do następnej karty"
+
+["Zakładki"]
+"CTRL + D" = "Zapisz stronę do zakładek"
+"CTRL + SHIFT + O" = "Otwórz menadżer zakładek"
+
+["Zarządzanie przeglądarką"]
+"CTRL + J" = "Otwórz menadżer pobrań"
+"CTRL + SHIFT + DELETE" = "Wyczyść historię przeglądarki"

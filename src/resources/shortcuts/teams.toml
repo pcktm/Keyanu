@@ -1,0 +1,24 @@
+name = "Microsoft Teams"
+process = "Teams.exe"
+
+[Podstawowe]
+"CTRL + N" = "Rozpocznij nowy czat"
+"CTRL + E" = "Przejdź do wyszukania"
+"CTRL + G" = "Przechodzenie do (np. czatu)"
+
+[Nawigacja]
+"CTRL + 1" = "Przejście do Aktywności"
+"CTRL + 2" = "Przejście do Czatu"
+"CTRL + 3" = "Przejście do Zespołów"
+
+["Spotkania i połączenia"]
+"CTRL + SHIFT + M" = "Przełączenie wyciszenia mikrofonu"
+"CTRL + SHIFT + O" = "Przełączenie wideo"
+"CTRL + SHIFT + D" = "Odrzuć połączenie"
+"CTRL + SHIFT + S" = "Odbierz połączenie głosowe"
+"CTRL + SHIFT + A" = "Odbierz połączenie wideo"
+
+["Wiadomości"]
+"SHIFT + ENTER" = "Przeście do nowej linii"
+"CTRL + SHIFT + X" = "Rozwiń okno redagowania"
+"CTRL + SHIFT + I" = "Oznacz jako ważne"

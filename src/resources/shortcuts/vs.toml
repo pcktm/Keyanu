@@ -1,0 +1,37 @@
+name = "Visual Studio Code"
+process = "Code.exe"
+
+["Podstawowe edytowanie"]
+
+"CTRL + X" = "Usuń linię"
+"CTRL + ENTER" = "Wstaw linię pod spód"
+"CTRL + SHIFT + ENTER" = "Wstaw linię nad"
+"CTRL + SHIFT + {" = "Zminimalizuj dany obszar"
+"CTRL + SHIFT + }" = "Zmaksymalizuj dany obszar"
+"CTRL + /" = "Dodaj komentarz"
+"CTRL + ]" = "Dodaj wcięcie linii"
+"CTRL + [" = "Usuń wcięcie linii"
+"CTRL + HOME" = "Idź na początek pliku"
+"CTRL + END" = "Idź na koniec pliku"
+
+[Nawigacja]
+
+"CTRL + G" = "Idź do linii"
+"F8" = "Przejdź do następnego błędu lub ostrzeżenia"
+"SHIFT + F8" = "Przejdź do poprzedniego błędu lub ostrzeżenia"
+
+["Obsługa plików"]
+
+"CTRL + TAB" = "Otwórz następny plik"
+"CTRL + SHIFT + TAB" = "Otwórz poprzedni plik"
+"CTRL + N" = "Nowy plik"
+"CTRL + O" = "Otwórz plik"
+"CTRL + S" = "Zapisz plik"
+
+["Wyświetlanie"]
+
+"F11" = "Włącz pełny ekran"
+"CTRL + SHIFT + E" = "Pokaż przeglądarkę plików"
+"CTRL + SHIFT + F" = "Pokaż wyszukiwarkę"
+"CTRL + SHIFT + D" = "Pokaż debugger"
+"CTRL + SHIFT + X" = "Pokaż rozszerzenia"

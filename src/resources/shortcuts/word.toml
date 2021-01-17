@@ -1,0 +1,34 @@
+name = "Microsoft Office Word"
+process = "WINWORD.EXE"
+
+["Praca z plikiem"]
+
+"CTRL + P" = "Otwórz stronę wydruku"
+"CTRL + O" = "Otwórz okno z ostatnimi dokumentami"
+"CTRL + N" = "Otwórz nowy dokument"
+"CTRL + F" = "Znajdź w pliku"
+"CTRL + S" = "Zapisz plik"
+"CTRL + Z" = "Cofnij ostatnią zmianę"
+"CTRL + SHIFT + Z" = "Ponów ostatnią zmianę"
+
+["Praca z tekstem"]
+
+"CTRL + B" = "Włącz pogrubienie"
+"CTRL + I" = "Włącz kursywę"
+"CTRL + U" = "Włącz podkreślenie"
+"CTRL + D" = "Pokaż okno czcionek"
+"CTRL + E" = "Wyśrodkuj tekst"
+"CTRL + L" = "Wyrównaj do lewej"
+"CTRL + R" = "Wyrównaj do prawej"
+"CTRL + SHIFT + <" = "Zmniejsz rozmiar zaznaczonego tekstu o 1"
+"CTRL + SHIFT + >" = "Zwiększ rozmiar zaznaczonego tekstu o 1"
+"CTRL + SHIFT + C" = "Kopiuj formatowanie"
+"CTRL + SHIFT + V" = "Wklej formatowanie"
+"CTRL + K" = "Wstaw hiperlink"
+"SHIFT + ENTER" = "Wstaw miękką spację"
+
+
+[Nawigacja]
+
+"CTRL + HOME" = "Przejdź na górę dokumentu"
+"ctrl + END" = "Przejdź na dół dokumentu"
