@@ -2,6 +2,9 @@
 
 > Menadżer skrótów
 
+#### Installer
+You can download an [installer](https://github.com/pcktm/Keyanu/releases/tag/0.0.1) and check it out for yourself!
+
 #### Build Setup
 
 ``` bash
