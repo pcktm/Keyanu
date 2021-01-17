@@ -1,6 +1,6 @@
-# bite2020
+# Keyanu
 
-> An electron-nuxt project
+> Menadżer skrótów
 
 #### Build Setup
 
