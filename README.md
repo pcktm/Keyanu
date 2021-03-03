@@ -2,6 +2,8 @@
 
 > Menadżer skrótów
 
+[Keyanu pitch](https://cloud.kopanko.com/index.php/s/t7karHgpWLqdinA)
+
 #### Installer
 You can download an [installer](https://github.com/pcktm/Keyanu/releases/tag/0.0.1) and check it out for yourself!
 
